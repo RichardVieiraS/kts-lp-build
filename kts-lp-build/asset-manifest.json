@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f75be83.css",
+    "main.js": "/static/js/main.8703e205.js",
+    "static/media/call-center.webm": "/static/media/call-center.789bbaf50a37eb0329b6.webm",
+    "static/media/laleska.png": "/static/media/laleska.16d02dcbea46367b5d1c.png",
+    "static/media/hamada.png": "/static/media/hamada.4e2480a240594f854f80.png",
+    "static/media/cond-personalizado.jpeg": "/static/media/cond-personalizado.86ca3b0703310cd9ac21.jpeg",
+    "static/media/nat-4.jpg": "/static/media/nat-4.114dc94031b51b2988c7.jpg",
+    "static/media/monitoramento-01.jpg": "/static/media/monitoramento-01.053babfc3435fbb1a99b.jpg",
+    "static/media/call-center.jpg": "/static/media/call-center.05b3a3d47240dd33aae4.jpg",
+    "static/media/cond-resid.jpg": "/static/media/cond-resid.f574c08f09082c9150f8.jpg",
+    "static/media/atendimento-01.webp": "/static/media/atendimento-01.8a6f7005f9243ac2f02d.webp",
+    "static/media/instalacao-01.jpeg": "/static/media/instalacao-01.b28e357a4a2363f23d86.jpeg",
+    "static/media/monitoramento-02.jpg": "/static/media/monitoramento-02.92df67a3615d0e12c581.jpg",
+    "static/media/entrega-01.jpg": "/static/media/entrega-01.e9d8c92b520a8a9f01af.jpg",
+    "static/media/cond-emp.jpg": "/static/media/cond-emp.80b3b6b9751c0db869d8.jpg",
+    "static/media/kts-logo-transparente.png": "/static/media/kts-logo-transparente.5a52f041b980cfeb7afe.png",
+    "index.html": "/index.html",
+    "main.2f75be83.css.map": "/static/css/main.2f75be83.css.map",
+    "main.8703e205.js.map": "/static/js/main.8703e205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f75be83.css",
+    "static/js/main.8703e205.js"
+  ]
+}
