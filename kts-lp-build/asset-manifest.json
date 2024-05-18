@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f75be83.css",
-    "main.js": "/static/js/main.6fd49536.js",
+    "main.js": "/static/js/main.229b9f2f.js",
     "static/media/call-center.webm": "/static/media/call-center.789bbaf50a37eb0329b6.webm",
     "static/media/laleska.png": "/static/media/laleska.16d02dcbea46367b5d1c.png",
     "static/media/hamada.png": "/static/media/hamada.4e2480a240594f854f80.png",
@@ -18,10 +18,10 @@
     "static/media/kts-logo-transparente.png": "/static/media/kts-logo-transparente.5a52f041b980cfeb7afe.png",
     "index.html": "/index.html",
     "main.2f75be83.css.map": "/static/css/main.2f75be83.css.map",
-    "main.6fd49536.js.map": "/static/js/main.6fd49536.js.map"
+    "main.229b9f2f.js.map": "/static/js/main.229b9f2f.js.map"
   },
   "entrypoints": [
     "static/css/main.2f75be83.css",
-    "static/js/main.6fd49536.js"
+    "static/js/main.229b9f2f.js"
   ]
 }
